@@ -2,4 +2,9 @@
     <string name="app_name">P03_Demo_Simple_Click</string>
     <string name="enter">Display</string>
     <string name="show">Display what the user enter</string>
+    <string name="enable">Enable</string>
+    <string name="disabled">Disabled</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="maleRadio">Male</string>
+    <string name="femaleRadio">Female</string>
 </resources>
