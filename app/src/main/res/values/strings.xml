@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">P03_Demo_Simple_Click</string>
+    <string name="enter">Display</string>
+    <string name="show">Display what the user enter</string>
 </resources>
